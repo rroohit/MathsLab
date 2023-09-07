@@ -1,2 +1,2 @@
 # MathsLab
-Application get result for Mathematicas expression 
+Android Application get result for Mathematics expression 
