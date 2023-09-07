@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MathsLab</string>
+    <string name="maths_lab">Maths Lab</string>
+    <string name="evaluate">Evaluate</string>
+    <string name="history">History</string>
+    <string name="please_press_enter_to_separate_expressions">"Please Press Enter to separate expressions "</string>
+</resources>
